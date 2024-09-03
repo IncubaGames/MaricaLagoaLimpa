@@ -1,0 +1,7 @@
+<TextureAtlas imagePath="sprites.png">
+	<SubTexture name="SIZINHO-SPRITE_RUN -  AMARELO_000.png" x="0" y="171" width="141" height="169"/>
+	<SubTexture name="SIZINHO-SPRITE_RUN -  AMARELO_001.png" x="0" y="171" width="141" height="169"/>
+	<SubTexture name="SIZINHO-SPRITE_RUN -  AMARELO_002.png" x="143" y="0" width="141" height="169"/>
+	<SubTexture name="SIZINHO-SPRITE_RUN -  AMARELO_003.png" x="143" y="171" width="141" height="169"/>
+	<SubTexture name="SIZINHO-SPRITE_RUN -  AMARELO_004.png" x="0" y="0" width="141" height="169"/>
+</TextureAtlas>
