@@ -1,0 +1,3 @@
+<TextureAtlas imagePath="sprites.png">
+	<SubTexture name="SIZINHO-SPRITE_IDLE AMARELO_Spritesheet5x1.png" x="0" y="0" width="741" height="169"/>
+</TextureAtlas>
