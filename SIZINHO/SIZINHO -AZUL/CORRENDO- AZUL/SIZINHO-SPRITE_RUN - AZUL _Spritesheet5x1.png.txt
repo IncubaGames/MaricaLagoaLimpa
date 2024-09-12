@@ -1,0 +1,1 @@
+SIZINHO-SPRITE_RUN - AZUL _Spritesheet5x1_01.png.png 0 29, SIZINHO-SPRITE_RUN - AZUL _Spritesheet5x1_02.png.png 150 29, SIZINHO-SPRITE_RUN - AZUL _Spritesheet5x1_03.png.png 303 29, SIZINHO-SPRITE_RUN - AZUL _Spritesheet5x1_04.png.png 456 29, SIZINHO-SPRITE_RUN - AZUL _Spritesheet5x1_05.png.png 606 29.
